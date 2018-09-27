@@ -13,6 +13,5 @@ public class App
         System.out.println( "Hello World, Mike Again Again!" );
         System.out.println( "Hello World, Mike Again Again!" );
         System.out.println( "Hello World, Mike Again Again!" );
-        System.out.println( "Hello World, Mike Again Again!" );
     }
 }
